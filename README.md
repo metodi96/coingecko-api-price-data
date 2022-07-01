@@ -8,6 +8,7 @@ Due to the rate limit of roughly 50 requests/minute, the script is configured in
 Make sure to create a test.xlsx file with the following example structure:
 
 | bitcoin     | 04-12-2020  |
+| ----------- | ----------- |
 | ethereum    | 05-05-2021  |
 | avalanche   | 10-10-2021  |
 | fantom      | 15-12-2021  |
